@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Study.Domain\bin\Debug\net8.0\Study.Domain.deps.json
+C:\Users\User\source\repos\Study.Domain\bin\Debug\net8.0\Study.Domain.dll
+C:\Users\User\source\repos\Study.Domain\bin\Debug\net8.0\Study.Domain.pdb
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.AssemblyInfo.cs
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.dll
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\refint\Study.Domain.dll
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\Study.Domain.pdb
+C:\Users\User\source\repos\Study.Domain\obj\Debug\net8.0\ref\Study.Domain.dll

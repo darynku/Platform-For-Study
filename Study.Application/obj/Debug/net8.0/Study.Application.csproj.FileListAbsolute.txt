@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Study.Application\bin\Debug\net8.0\Study.Application.deps.json
+C:\Users\User\source\repos\Study.Application\bin\Debug\net8.0\Study.Application.dll
+C:\Users\User\source\repos\Study.Application\bin\Debug\net8.0\Study.Application.pdb
+C:\Users\User\source\repos\Study.Application\bin\Debug\net8.0\Study.Domain.dll
+C:\Users\User\source\repos\Study.Application\bin\Debug\net8.0\Study.Domain.pdb
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.AssemblyInfo.cs
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Ap.038E75AB.Up2Date
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.dll
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\refint\Study.Application.dll
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\Study.Application.pdb
+C:\Users\User\source\repos\Study.Application\obj\Debug\net8.0\ref\Study.Application.dll

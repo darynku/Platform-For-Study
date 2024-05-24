@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Infrastructure.deps.json
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Infrastructure.dll
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Infrastructure.pdb
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Application.dll
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Domain.dll
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Application.pdb
+C:\Users\User\source\repos\Study.Infrastructure\bin\Debug\net8.0\Study.Domain.pdb
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.AssemblyInfo.cs
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.In.7070716D.Up2Date
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.dll
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\refint\Study.Infrastructure.dll
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\Study.Infrastructure.pdb
+C:\Users\User\source\repos\Study.Infrastructure\obj\Debug\net8.0\ref\Study.Infrastructure.dll

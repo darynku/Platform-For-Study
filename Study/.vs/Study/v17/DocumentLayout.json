@@ -1,0 +1,842 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\src-study\\Study\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|c:\\users\\user\\source\\repos\\src-study\\study\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\course\\getallcourserespones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\course\\getallcourserespones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\course\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\course\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\course\\getcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\course\\getcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\user\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\user\\loginuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/PREDATOR_KUNANT/Study/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\study.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:study.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\study.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:study.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Study.Persistence\\Migrations\\20240510171016_Configure_Entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study\\controllers\\contracts\\lesson\\updatelessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study\\controllers\\contracts\\lesson\\createlessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study\\controllers\\contracts\\course\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study\\controllers\\contracts\\course\\getcourseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study\\controllers\\contracts\\course\\createcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\lesson\\getlessonrespones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\lesson\\getlessonrespones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\lesson\\updatelessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\lesson\\updatelessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\lesson\\createlessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\lesson\\createlessonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\course\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\course\\updatecourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|C:\\Users\\User\\source\\repos\\src-study\\Study\\contracts\\user\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A77269C-41DB-45E0-A07D-CCD4962690D1}|Study.csproj|solutionrelative:contracts\\user\\registeruserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.infrastructure\\authentication\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\study.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\persistencextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.infrastructure\\infrastructureextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.infrastructure\\authentication\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\repository\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\interfaces\\services\\icoursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\entities\\courseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\study.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\User\\source\\repos\\Study.Persistence\\Migrations\\20240512175706_admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\applicationextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\authentication\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\interfaces\\repository\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\entities\\lessonentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\repository\\coursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\services\\coursesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\models\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\repository\\lessonsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\configuration\\courseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.persistence\\configuration\\lessonconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.domain\\interfaces\\repository\\icoursesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\study.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.infrastructure\\study.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\authentication\\iusersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\user\\source\\repos\\study.application\\authentication\\ipasswordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:11:50.551Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Authentication\\JwtProvider.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Infrastructure\\Authentication\\JwtProvider.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAIBAwCcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:28:19.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Study.Persistence.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Study.Persistence.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Study.Persistence.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Study.Persistence.csproj",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Study.Persistence.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T10:15:04.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersistencExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\PersistencExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\PersistencExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\PersistencExtension.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\PersistencExtension.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:44:26.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAuwCQAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:38:04.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T11:28:01.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "InfrastructureExtension.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\InfrastructureExtension.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Infrastructure\\InfrastructureExtension.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\InfrastructureExtension.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Infrastructure\\InfrastructureExtension.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAUwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:19:33.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetAllCourseRespones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\GetAllCourseRespones.cs",
+              "RelativeDocumentMoniker": "Contracts\\Course\\GetAllCourseRespones.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\GetAllCourseRespones.cs",
+              "RelativeToolTip": "Contracts\\Course\\GetAllCourseRespones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T10:40:57.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:01:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Services\\UsersService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Services\\UsersService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Services\\UsersService.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Services\\UsersService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIBAwCIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:43:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetCourseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\GetCourseResponse.cs",
+              "RelativeDocumentMoniker": "Contracts\\Course\\GetCourseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\GetCourseResponse.cs",
+              "RelativeToolTip": "Contracts\\Course\\GetCourseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:58:31.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\CreateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Course\\CreateCourseRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\CreateCourseRequest.cs",
+              "RelativeToolTip": "Contracts\\Course\\CreateCourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T08:56:40.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\User\\LoginUserRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\User\\LoginUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\User\\LoginUserRequest.cs",
+              "RelativeToolTip": "Contracts\\User\\LoginUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:49:26.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Infrastructure\\Authentication\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:18:58.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "UsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\UsersRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Repository\\UsersRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\UsersRepository.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Repository\\UsersRepository.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIBAwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:52:54.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\UserEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Entities\\UserEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\UserEntity.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Entities\\UserEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:22:45.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\User.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\User.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Models\\User.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:26:58.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Controllers\\UsersController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA9wBsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:57:34.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\LessonsController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "Controllers\\LessonsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAkwB0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:17:21.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICoursesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Services\\ICoursesService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Interfaces\\Services\\ICoursesService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Services\\ICoursesService.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Interfaces\\Services\\ICoursesService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:55:29.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CourseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\CourseEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Entities\\CourseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\CourseEntity.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Entities\\CourseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:18:44.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Study.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Study.Domain.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Study.Domain.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Study.Domain.csproj",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Study.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T10:14:44.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240512175706_admin.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Migrations\\20240512175706_admin.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Migrations\\20240512175706_admin.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Migrations\\20240512175706_admin.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Migrations\\20240512175706_admin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T17:57:06.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "dbo.Users [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/PREDATOR_KUNANT/Study/True/SqlTable/dbo.Users.sql",
+              "ToolTip": "dbo.Users [\u0414\u0430\u043D\u043D\u044B\u0435]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-05-09T15:54:46.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Study.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Study.http",
+              "RelativeDocumentMoniker": "Study.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Study.http",
+              "RelativeToolTip": "Study.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-09T15:10:58.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Study.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Study.csproj",
+              "RelativeDocumentMoniker": "Study.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Study.csproj",
+              "RelativeToolTip": "Study.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-12T16:47:03.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateLessonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Controllers\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "RelativeToolTip": "..\\..\\Study\\Controllers\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:39:22.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateLessonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Controllers\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "RelativeToolTip": "..\\..\\Study\\Controllers\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:39:21.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UpdateCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\UpdateCourseRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Controllers\\Contracts\\Course\\UpdateCourseRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\UpdateCourseRequest.cs*",
+              "RelativeToolTip": "..\\..\\Study\\Controllers\\Contracts\\Course\\UpdateCourseRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:39:12.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetCourseResponse.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\GetCourseResponse.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Controllers\\Contracts\\Course\\GetCourseResponse.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\GetCourseResponse.cs",
+              "RelativeToolTip": "..\\..\\Study\\Controllers\\Contracts\\Course\\GetCourseResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:39:09.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\CreateCourseRequest.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study\\Controllers\\Contracts\\Course\\CreateCourseRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study\\Controllers\\Contracts\\Course\\CreateCourseRequest.cs*",
+              "RelativeToolTip": "..\\..\\Study\\Controllers\\Contracts\\Course\\CreateCourseRequest.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T11:38:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ApplicationExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\ApplicationExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\ApplicationExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\ApplicationExtensions.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\ApplicationExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAnwAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:05:51.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Authentication\\IJwtProvider.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IJwtProvider.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Authentication\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T10:06:02.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IUsersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Repository\\IUsersRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Interfaces\\Repository\\IUsersRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Repository\\IUsersRepository.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Interfaces\\Repository\\IUsersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T09:52:38.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "LessonEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\LessonEntity.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Entities\\LessonEntity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Entities\\LessonEntity.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Entities\\LessonEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:20:44.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "CoursesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\CoursesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Repository\\CoursesRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\CoursesRepository.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Repository\\CoursesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:53:02.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CoursesService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Services\\CoursesService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Services\\CoursesService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Services\\CoursesService.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Services\\CoursesService.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T11:01:40.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\Lesson.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Models\\Lesson.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\Lesson.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Models\\Lesson.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBEAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:26:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "LessonsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\LessonsRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Repository\\LessonsRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Repository\\LessonsRepository.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Repository\\LessonsRepository.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAmwD8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T10:42:50.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Models\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Models\\Course.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Models\\Course.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAQAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:26:03.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240510171016_Configure_Entity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Study.Persistence\\Migrations\\20240510171016_Configure_Entity.cs",
+              "RelativeDocumentMoniker": "..\\..\\Study.Persistence\\Migrations\\20240510171016_Configure_Entity.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Study.Persistence\\Migrations\\20240510171016_Configure_Entity.cs",
+              "RelativeToolTip": "..\\..\\Study.Persistence\\Migrations\\20240510171016_Configure_Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:10:16.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "CourseConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Configuration\\CourseConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Configuration\\CourseConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Configuration\\CourseConfiguration.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Configuration\\CourseConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:55:12.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "LessonConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Configuration\\LessonConfiguration.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Persistence\\Configuration\\LessonConfiguration.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Persistence\\Configuration\\LessonConfiguration.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Persistence\\Configuration\\LessonConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T17:01:44.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GetLessonRespones.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\GetLessonRespones.cs",
+              "RelativeDocumentMoniker": "Contracts\\Lesson\\GetLessonRespones.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\GetLessonRespones.cs",
+              "RelativeToolTip": "Contracts\\Lesson\\GetLessonRespones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:26:57.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UpdateLessonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "RelativeToolTip": "Contracts\\Lesson\\UpdateLessonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:28:02.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CreateLessonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Lesson\\CreateLessonRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Lesson\\CreateLessonRequest.cs",
+              "RelativeToolTip": "Contracts\\Lesson\\CreateLessonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T16:24:17.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateCourseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\UpdateCourseRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\Course\\UpdateCourseRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\Course\\UpdateCourseRequest.cs",
+              "RelativeToolTip": "Contracts\\Course\\UpdateCourseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T10:00:00.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ICoursesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Repository\\ICoursesRepository.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Domain\\Interfaces\\Repository\\ICoursesRepository.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Domain\\Interfaces\\Repository\\ICoursesRepository.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Domain\\Interfaces\\Repository\\ICoursesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T09:53:20.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Study.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Study.Application.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Study.Application.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Study.Application.csproj",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Study.Application.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T10:14:39.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Study.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Study.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Infrastructure\\Study.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Infrastructure\\Study.Infrastructure.csproj",
+              "RelativeToolTip": "..\\..\\src\\Study.Infrastructure\\Study.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T10:15:06.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IUsersService.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IUsersService.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Authentication\\IUsersService.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IUsersService.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Authentication\\IUsersService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:51:43.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "IPasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IPasswordHasher.cs",
+              "RelativeDocumentMoniker": "..\\..\\src\\Study.Application\\Authentication\\IPasswordHasher.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src\\Study.Application\\Authentication\\IPasswordHasher.cs",
+              "RelativeToolTip": "..\\..\\src\\Study.Application\\Authentication\\IPasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T15:08:15.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\User\\RegisterUserRequest.cs",
+              "RelativeDocumentMoniker": "Contracts\\User\\RegisterUserRequest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\src-study\\Study\\Contracts\\User\\RegisterUserRequest.cs",
+              "RelativeToolTip": "Contracts\\User\\RegisterUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T14:45:44.514Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
